@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-09T16:19:13.157Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="3xaCiGsAtJEuBgMLoeW7" version="12.2.3" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-11-09T16:24:06.493Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="Tl1SK8v7fd2NhllpLhmg" version="12.2.3" type="github" pages="4">
   <diagram id="jKluhGD8QkqTiX8im4Pk" name="stakeholders">
     <mxGraphModel dx="2052" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -448,6 +448,9 @@
       <root>
         <mxCell id="8zDEgJcXj2wzXXAaCIdz-0"/>
         <mxCell id="8zDEgJcXj2wzXXAaCIdz-1" parent="8zDEgJcXj2wzXXAaCIdz-0"/>
+        <mxCell id="8zDEgJcXj2wzXXAaCIdz-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://interworks.com.mk/wp-content/uploads/2017/01/AWS.png;" vertex="1" parent="8zDEgJcXj2wzXXAaCIdz-1">
+          <mxGeometry x="100" y="70" width="520" height="191" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
