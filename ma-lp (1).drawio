@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-09T16:10:14.021Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="5wgIdSIFtPK-vsDIyudO" version="12.2.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-09T16:19:13.157Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="3xaCiGsAtJEuBgMLoeW7" version="12.2.3" type="github" pages="4">
   <diagram id="jKluhGD8QkqTiX8im4Pk" name="stakeholders">
     <mxGraphModel dx="2052" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -440,6 +440,14 @@
         <mxCell id="KpQm81-bxurWY4-uMQvB-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMYXllcl8xIiBkYXRhLW5hbWU9IkxheWVyIDEiIHdpZHRoPSI2NS4xIiBoZWlnaHQ9IjU1LjkiIHZpZXdCb3g9IjAgMCA2NS4xIDU1LjkiPjxkZWZzIGlkPSJkZWZzNCI+PHN0eWxlIGlkPSJzdHlsZTIiPi5jbHMtMntmaWxsOiM3NTljM2V9LmNscy0ze2ZpbGw6I2ZmZn08L3N0eWxlPjwvZGVmcz48cGF0aCBkPSJNNjIgNTUuOUgzYTMgMyAwIDAgMS0zLTNWN2EzIDMgMCAwIDEgMy0zaDU5LjFhMyAzIDAgMCAxIDMgM3Y0NmEzLjA4IDMuMDggMCAwIDEtMy4xIDIuOXoiIGlkPSJwYXRoOCIgZmlsbD0iIzRiNjEyYyIvPjxwYXRoIGNsYXNzPSJjbHMtMiIgZD0iTTYyIDUxLjlIM2EzIDMgMCAwIDEtMy0zVjNhMyAzIDAgMCAxIDMtM2g1OS4xYTMgMyAwIDAgMSAzIDN2NDZhMy4wOCAzLjA4IDAgMCAxLTMuMSAyLjl6IiBpZD0icGF0aDEwIiBmaWxsPSIjNzU5YzNlIi8+PHBhdGggY2xhc3M9ImNscy0zIiBpZD0icmVjdDEyIiBmaWxsPSIjZmZmIiBkPSJNMTIuOCA0LjFoNDguN3Y0LjRIMTIuOHoiLz48Y2lyY2xlIGNsYXNzPSJjbHMtMyIgY3g9IjYuMyIgY3k9IjYuMyIgcj0iMy41IiBpZD0iY2lyY2xlMTQiIGZpbGw9IiNmZmYiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGlkPSJyZWN0MTYiIGZpbGw9IiNmZmYiIGQ9Ik0zLjUgMTIuOGg1OHYzNS4xaC01OHoiLz48cGF0aCBjbGFzcz0iY2xzLTIiIGlkPSJwb2x5Z29uMTgiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNy41IC0yNCkiIGZpbGw9IiM3NTljM2UiIGQ9Ik01NC44IDYwLjFsLTEuMy0uNi0uNi0uMy0uMy41LS45IDEuMi0xLjEtLjktLjUtLjQtLjQuNC0xLjIuOS0uOC0xLjItLjMtLjUtLjYuMy0xLjMuNi0uNS0xLjQtLjItLjYtMSAuMkg0M3YxMWw3LTUuOSA3IDUuOXYtMTFoLS43bC0uOC0uMi0uMi42eiIvPjxwYXRoIGNsYXNzPSJjbHMtMiIgaWQ9InBvbHlnb24yMCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE3LjUgLTI0KSIgZmlsbD0iIzc1OWMzZSIgZD0iTTU4LjggNDYuNWwuOC0xLjYtMS43LS42LjQtMS43LTEuOC0uMi0uMS0xLjctMS44LjMtLjUtMS42LTEuNi43LTEtMS40LTEuNCAxLjEtMS4zLTEuMS0xIDEuNC0xLjYtLjctLjYgMS42LTEuNy0uMy0uMSAxLjctMS44LjIuMyAxLjctMS42LjYuNyAxLjYtMS40IDEgMS4xIDEuMy0xLjEgMS4zIDEuNCAxLS43IDEuNiAxLjYuNi0uNSAxLjcgMS40LjJoLjNsLjMgMS43IDEuOC0uMy42IDEuNyAxLjYtLjggMSAxLjUgMS4zLTEuMiAxLjQgMS4yIDEtMS41IDEuNi44LjUtMS43IDEuOC4zLjItMS43aC4xbDEuNi0uMi0uNC0xLjcgMS43LS42LS44LTEuNiAxLjUtMS0xLjItMS4zIDEuMi0xLjN6Ii8+PHBhdGggY2xhc3M9ImNscy0zIiBpZD0icG9seWdvbjIyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTcuNSAtMjQpIiBmaWxsPSIjZmZmIiBkPSJNNDMuMSA0OS45bDUuMiA1LjIgOC44LTguOC0yLTIuMS02LjcgNS42LTIuNS0yLjd6Ii8+PC9zdmc+;" vertex="1" parent="KpQm81-bxurWY4-uMQvB-36">
           <mxGeometry x="6" y="6.409090909090909" width="17.7012987012987" height="15.259740259740258" as="geometry"/>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="X9kk5htVG2LFhXxOL6Hd" name="iot-sequence-diagram">
+    <mxGraphModel dx="2052" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="8zDEgJcXj2wzXXAaCIdz-0"/>
+        <mxCell id="8zDEgJcXj2wzXXAaCIdz-1" parent="8zDEgJcXj2wzXXAaCIdz-0"/>
       </root>
     </mxGraphModel>
   </diagram>
