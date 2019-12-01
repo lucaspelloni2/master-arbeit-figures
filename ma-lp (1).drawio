@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-01T12:09:03.278Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ulBIVWFKl-4Uogm8I3mg" version="12.3.3" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-12-01T12:09:40.137Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="5h5-amhc2y6th_Oqt0J2" version="12.3.3" type="github" pages="6">
   <diagram id="jKluhGD8QkqTiX8im4Pk" name="stakeholders">
     <mxGraphModel dx="1172" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -564,7 +564,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X9kk5htVG2LFhXxOL6Hd" name="iot-sequence-diagram">
-    <mxGraphModel dx="2200" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8zDEgJcXj2wzXXAaCIdz-0"/>
         <mxCell id="8zDEgJcXj2wzXXAaCIdz-1" parent="8zDEgJcXj2wzXXAaCIdz-0"/>
@@ -751,8 +751,7 @@
             <mxPoint x="268.0952380952381" y="130" as="sourcePoint"/>
             <mxPoint x="370" y="560" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="371" y="468"/>
-              <mxPoint x="370" y="468"/>
+              <mxPoint x="371" y="560"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -875,7 +874,7 @@
         </mxCell>
         <mxCell id="2z_iCVFwEEa0Yr0fZsM3-71" value="&lt;font style=&quot;font-size: 9px&quot;&gt;13: Inform concerned users&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2z_iCVFwEEa0Yr0fZsM3-70">
           <mxGeometry x="0.2687" y="1" relative="1" as="geometry">
-            <mxPoint x="-68" y="13" as="offset"/>
+            <mxPoint x="-45.5" y="13.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="2z_iCVFwEEa0Yr0fZsM3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=3;endArrow=block;endFill=1;endSize=3;" edge="1" parent="8zDEgJcXj2wzXXAaCIdz-1" source="2z_iCVFwEEa0Yr0fZsM3-72">
